@@ -4,6 +4,10 @@ A bot which sends message from discord to twitch and vice versa.
 
 ## Usage
 
+```
+pip install -r requirements.txt
+```
+
 Set the following environments variables:
 
 * DISCORD_TOKEN = Your discord bot oauth token
